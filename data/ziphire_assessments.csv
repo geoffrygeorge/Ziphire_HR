@@ -1,0 +1,104 @@
+Tech Industry,Skill,Junior,Mid-Level,Senior,MCQ,Coding
+None,None,None,None,None,None,None
+Full-Stack,HTML,Full-Stack HTML Assessment - Junior,Full-Stack HTML Assessment - Mid-Level,Full-Stack HTML Assessment - Senior,Yes,No
+Full-Stack,CSS,Full-Stack CSS Assessment - Junior,Full-Stack CSS Assessment - Mid-Level,Full-Stack CSS Assessment - Senior,Yes,No
+Full-Stack,JavaScript,Full-Stack JavaScript Assessment - Junior,Full-Stack JavaScript Assessment - Mid-Level,Full-Stack JavaScript Assessment - Senior,Yes,Yes
+Full-Stack,Angular,Full-Stack Angular Assessment - Junior,Full-Stack Angular Assessment - Mid-Level,Full-Stack Angular Assessment - Senior,Yes,No
+Full-Stack,TypeScript,Full-Stack TypeScript Assessment - Junior,Full-Stack TypeScript Assessment - Mid-Level,Full-Stack TypeScript Assessment - Senior,Yes,No
+Full-Stack,Go/Golang,Full-Stack Go/Golang Assessment - Junior,Full-Stack Go/Golang Assessment - Mid-Level,Full-Stack Go/Golang Assessment - Senior,Yes,No
+Full-Stack,.NET Core,Full-Stack .NET Core Assessment - Junior,Full-Stack .NET Core Assessment - Mid-Level,Full-Stack .NET Core Assessment - Senior,Yes,Yes
+Full-Stack,ASP.NET,Full-Stack ASP.NET Assessment - Junior,Full-Stack ASP.NET Assessment - Mid-Level,Full-Stack ASP.NET Assessment - Senior,Yes,Yes
+Full-Stack,C#,Full-Stack C# Assessment - Junior,Full-Stack C# Assessment - Mid-Level,Full-Stack C# Assessment - Senior,Yes,Yes
+Full-Stack,Vue.js,Full-Stack Vue.js Assessment - Junior,Full-Stack Vue.js Assessment - Mid-Level,Full-Stack Vue.js Assessment - Senior,Yes,Yes
+Full-Stack,SQL,Full-Stack SQL Assessment - Junior,Full-Stack SQL Assessment - Mid-Level,Full-Stack SQL Assessment - Senior,Yes,No
+Full-Stack,MySQL,Full-Stack MySQL Assessment - Junior,Full-Stack MySQL Assessment - Mid-Level,Full-Stack MySQL Assessment - Senior,Yes,No
+Full-Stack,MS SQL,Full-Stack MSSQL Assessment - Junior,Full-Stack MSSQL Assessment - Mid-Level,Full-Stack MSSQL Assessment - Senior,Yes,No
+Front-End,JavaScript,Front-End JavaScript Assessment - Junior,Front-End JavaScript Assessment - Mid-Level,Front-End JavaScript Assessment - Senior,Yes,Yes
+Front-End,HTML,Front-End HTML Assessment - Junior,Front-End HTML Assessment - Mid-Level,Front-End HTML Assessment - Senior,Yes,No
+Front-End,CSS,Front-End CSS Assessment - Junior,Front-End CSS Assessment - Mid-Level,Front-End CSS Assessment - Senior,Yes,No
+Front-End,React.js,Front-End React.js Assessment - Junior,Front-End React.js Assessment - Mid-Level,Front-End React.js Assessment - Senior,Yes,Yes
+Front-End,Vue.js,Front-End Vue.js Assessment - Junior,Front-End Vue.js Assessment - Mid-Level,Front-End Vue.js Assessment - Senior,Yes,Yes
+Front-End,Angular ,Front-End Angular Assessment - Junior,Front-End Angular Assessment - Mid-Level,Front-End Angular Assessment - Senior,Yes,No
+Front-End,Django,Front-End Django Assessment - Junior,Front-End Django Assessment - Mid-Level,Front-End Django Assessment - Senior,Yes,No
+Back-End,PHP,Back-End PHP Assessment - Junior,Back-End PHP Assessment - Mid-Level,Back-End PHP Assessment - Senior,Yes,Yes
+Back-End,Node.js,Back-End Node.js Assessment - Junior,Back-End Node.jsAssessment - Mid-Level,Back-End Node.js Assessment - Senior,Yes,Yes
+Back-End,Java,Back-End Java Assessment - Junior,Back-End Java Assessment - Mid-Level,Back-End Java Assessment - Senior,Yes,Yes
+Back-End,ASP.NET,Back-End ASP.NET Assessment - Junior,Back-End ASP.NET Assessment - Mid-Level,Back-End ASP.NET Assessment - Senior,Yes,Yes
+Back-End,Python,Back-End Python Assessment - Junior,Back-End Python Assessment - Mid-Level,Back-End Python Assessment - Senior,Yes,Yes
+Back-End,Ruby on Rails,Back-End Ruby on Rails Assessment - Junior,Back-End Ruby on Rails Assessment - Mid-Level,Back-End Ruby on Rails Assessment - Senior,Yes,No
+Back-End,Ruby,Back-End Ruby Assessment - Junior,Back-End Ruby Assessment - Mid-Level,Back-End Ruby Assessment - Senior,Yes,No
+Back-End,.NET Core,Back-End .NET Core Assessment - Junior,Back-End .NET Core Assessment - Mid-Level,Back-End .NET Core Assessment - Senior,Yes,Yes
+Web,HTML,Web-Dev HTML Assessment - Junior,Web-Dev HTML Assessment - Mid-Level,Web-Dev HTML Assessment - Senior,Yes,No
+Web,CSS,Web-Dev CSS Assessment - Junior,Web-Dev CSS Assessment - Mid-Level,Web-Dev CSS Assessment - Senior,Yes,No
+Web,JavaScript,Web-Dev JavaScript Assessment - Junior,Web-Dev JavaScript Assessment - Mid-Level,Web-Dev JavaScript Assessment - Senior,Yes,Yes
+Web,PHP,Web-Dev PHP Assessment - Junior,Web-Dev PHP Assessment - Mid-Level,Web-Dev PHP Assessment - Senior,Yes,Yes
+Web,Ruby on Rails,Web-Dev Ruby on Rails Assessment - Junior,Web-Dev Ruby on Rails Assessment - Mid-Level,Web-Dev Ruby on Rails Assessment - Senior,Yes,No
+Web,Ruby,Web-Dev Ruby Assessment - Junior,Web-Dev Ruby Assessment - Mid-Level,Web-Dev Ruby Assessment - Senior,Yes,No
+Web,Ajax,Web-Dev Ajax Assessment - Junior,Web-Dev Ajax Assessment - Mid-Level,Web-Dev Ajax Assessment - Senior,Yes,Yes
+DevOps,Kubernetes,DevOps Kubernetes Assessment - Junior,DevOps Kubernetes Assessment - Mid-Level,DevOps Kubernetes Assessment - Senior,Yes,No
+DevOps,Docker,DevOps Docker Assessment - Junior,DevOps Docker Assessment - Mid-Level,DevOps Docker Assessment - Senior,Yes,No
+DevOps,Jenkins,DevOps Jenkins Assessment - Junior,DevOps Jenkins Assessment - Mid-Level,DevOps Jenkins Assessment - Senior,Yes,No
+DevOps,Elastic Search,DevOps ES Assessment - Junior,DevOps ES Assessment - Mid-Level,DevOps ES Assessment - Senior,Yes,No
+DevOps,Git,DevOps Git Assessment - Junior,DevOps Git Assessment - Mid-Level,DevOps Git Assessment - Senior,Yes,No
+DevOps,Bash,DevOps Bash Assessment - Junior,DevOps Bash Assessment - Mid-Level,DevOps Bash Assessment - Senior,Yes,No
+Software,DS & Algorithms,Software-Dev DS & Algorithms Assessment - Junior,Software-Dev DS & Algorithms Assessment - Mid-Level,Software-Dev DS & Algorithms Assessment - Senior,Yes,Yes
+Software,OOPs,Software-Dev OOPs Assessment - Junior,Software-Dev OOPs Assessment - Mid-Level,Software-Dev OOPs Assessment - Senior,Yes,No
+Software,Git,Software-Dev Git Assessment - Junior,Software-Dev Git Assessment - Mid-Level,Software-Dev Git Assessment - Senior,Yes,No
+Software,Kubernetes,Software-Dev Kubernetes Assessment - Junior,Software-Dev Kubernetes Assessment - Mid-Level,Software-Dev Kubernetes Assessment - Senior,Yes,No
+Software,Docker,Software-Dev Docker Assessment - Junior,Software-Dev Docker Assessment - Mid-Level,Software-Dev Docker Assessment - Senior,Yes,No
+Software,Python,Software-Dev Python Assessment - Junior,Software-Dev Python Assessment - Mid-Level,Software-Dev Python Assessment - Senior,Yes,Yes
+Software,Java,Software-Dev Java Assessment - Junior,Software-Dev Java Assessment - Mid-Level,Software-Dev Java Assessment - Senior,Yes,Yes
+Software,C,Software-Dev C Assessment - Junior,Software-Dev C Assessment - Mid-Level,Software-Dev C Assessment - Senior,Yes,Yes
+Software,C++,Software-Dev C++ Assessment - Junior,Software-Dev C++ Assessment - Mid-Level,Software-Dev C++ Assessment - Senior,Yes,Yes
+Application,Android,App-Dev Android Assessment - Junior,App-Dev Android Assessment - Mid-Level,App-Dev Android Assessment - Senior,Yes,No
+Application,Objective C,App-Dev Objective C Assessment - Junior,App-Dev Objective C Assessment - Mid-Level,App-Dev Objective C Assessment - Senior,Yes,No
+Application,C#,App-Dev C# Assessment - Junior,App-Dev C# Assessment - Mid-Level,App-Dev C# Assessment - Senior,Yes,Yes
+Application,Swift,App-Dev Swift Assessment - Junior,App-Dev Swift Assessment - Mid-Level,App-Dev Swift Assessment - Senior,Yes,No
+Application,React Native,App-Dev React Native Assessment - Junior,App-Dev React Native Assessment - Mid-Level,App-Dev React Native Assessment - Senior,Yes,No
+Application,Flutter,App-Dev Flutter Assessment - Junior,App-Dev Flutter Assessment - Mid-Level,App-Dev Flutter Assessment - Senior,Yes,No
+Application,Kotlin,App-Dev Kotlin Assessment - Junior,App-Dev Kotlin Assessment - Mid-Level,App-Dev Kotlin Assessment - Senior,Yes,No
+Application,Java,App-Dev Java Assessment - Junior,App-Dev Java Assessment - Mid-Level,App-Dev Java Assessment - Senior,Yes,Yes
+Data,Python,Data/Database Python Assessment - Junior,Data/Database Python Assessment - Mid-Level,Data/Database Python Assessment - Senior,Yes,Yes
+Data,Pandas,Data/Database Pandas Assessment - Junior,Data/Database Pandas Assessment - Mid-Level,Data/Database Pandas Assessment - Senior,Yes,No
+Data,Numpy,Data/Database Numpy Assessment - Junior,Data/Database Numpy Assessment - Mid-Level,Data/Database Numpy Assessment - Senior,Yes,No
+Data,Flask,Data/Database Flask Assessment - Junior,Data/Database Flask Assessment - Mid-Level,Data/Database Flask Assessment - Senior,Yes,No
+Data,R,Data/Database R Assessment - Junior,Data/Database R Assessment - Mid-Level,Data/Database R Assessment - Senior,Yes,No
+Data,Tableau,Data/Database Tableau Assessment - Junior,Data/Database Tableau Assessment - Mid-Level,Data/Database Tableau Assessment - Senior,Yes,No
+Data,Power BI,Data/Database Power BI Assessment - Junior,Data/Database Power BI Assessment - Mid-Level,Data/Database Power BI Assessment - Senior,Yes,No
+Data,SQL,Data/Database SQL Assessment - Junior,Data/Database SQL Assessment - Mid-Level,Data/Database SQL Assessment - Senior,Yes,No
+Data,MySQL,Data/Database MySQL Assessment - Junior,Data/Database MySQL Assessment - Mid-Level,Data/Database MySQL Assessment - Senior,Yes,No
+Data,MS SQL,Data/Database MS SQL Assessment - Junior,Data/Database MS SQL Assessment - Mid-Level,Data/Database MS SQL Assessment - Senior,Yes,No
+Data,Neo4j,Data/Database Neo4j Assessment - Junior,Data/Database Neo4j Assessment - Mid-Level,Data/Database Neo4j Assessment - Senior,Yes,No
+Data,MongoDB,Data/Database MongoDB Assessment - Junior,Data/Database MongoDB Assessment - Mid-Level,Data/Database MongoDB Assessment - Senior,Yes,No
+Data,PostgreSQL,Data/Database PostgreSQL Assessment - Junior,Data/Database PostgreSQL Assessment - Mid-Level,Data/Database PostgreSQL Assessment - Senior,Yes,No
+AI/ML,Python,AI/ML Python Assessment - Junior,AI/ML Python Assessment - Mid-Level,AI/ML Python Assessment - Senior,Yes,Yes
+AI/ML,TensorFlow,AI/ML TensorFlow Assessment - Junior,AI/ML TensorFlow Assessment - Mid-Level,AI/ML TensorFlow Assessment - Senior,Yes,No
+AI/ML,Keras,AI/ML Keras Assessment - Junior,AI/ML Keras Assessment - Mid-Level,AI/ML Keras Assessment - Senior,Yes,No
+AI/ML,OpenCV,AI/ML OpenCV Assessment - Junior,AI/ML OpenCV Assessment - Mid-Level,AI/ML OpenCV Assessment - Senior,Yes,No
+AI/ML,General AI/ML,AI/ML General Assessment - Junior,AI/ML General Assessment - Mid-Level,AI/ML General Assessment - Senior,Yes,No
+Cloud,AWS,Cloud-AWS Assessment - Junior,Cloud-AWS Assessment - Mid-Level,Cloud-AWS Assessment - Senior,Yes,No
+Cloud,Google Cloud,Cloud-Google Assessment - Junior,Cloud-Google Assessment - Mid-Level,Cloud-Google Assessment - Senior,Yes,No
+Cloud,Azure,Cloud-Azure Assessment - Junior,Cloud-Azure Assessment - Mid-Level,Cloud-Azure Assessment - Senior,Yes,No
+Cloud,Linux,Cloud-Linux Assessment - Junior,Cloud-Linux Assessment - Mid-Level,Cloud-Linux Assessment - Senior,Yes,No
+Cloud,Unix,Cloud-Unix Assessment - Junior,Cloud-Unix Assessment - Mid-Level,Cloud-Unix Assessment - Senior,Yes,No
+Cloud,Bash,Cloud-Bash Assessment - Junior,Cloud-Bash Assessment - Mid-Level,Cloud-Bash Assessment - Senior,Yes,No
+Network,CCNA,Network-CCNA Assessment - Junior,Network-CCNA Assessment - Mid-Level,Network-CCNA Assessment - Senior,Yes,No
+Network,CCNP,Network-CCNP Assessment - Junior,Network-CCNP Assessment - Mid-Level,Network-CCNP Assessment - Senior,Yes,No
+Network,Routing & Switching,Network-R&S Assessment - Junior,Network-R&S Assessment - Mid-Level,Network-R&S Assessment - Senior,Yes,No
+Game,Unity 3D,Game-Dev Unity 3D Assessment - Junior,Game-Dev Unity 3D Assessment - Mid-Level,Game-Dev Unity 3D Assessment - Senior,Yes,No
+Game,Python,Game-Dev Python Assessment - Junior,Game-Dev Python Assessment - Mid-Level,Game-Dev Python Assessment - Senior,Yes,Yes
+Game,Java,Game-Dev Java Assessment - Junior,Game-Dev Java Assessment - Mid-Level,Game-Dev Java Assessment - Senior,Yes,Yes
+Game,C++,Game-Dev C++ Assessment - Junior,Game-Dev C++ Assessment - Mid-Level,Game-Dev C++ Assessment - Senior,Yes,Yes
+Game,C#,Game-Dev C# Assessment - Junior,Game-Dev C# Assessment - Mid-Level,Game-Dev C# Assessment - Senior,Yes,Yes
+Game,Lua,Game-Dev Lua Assessment - Junior,Game-Dev Lua Assessment - Mid-Level,Game-Dev Lua Assessment - Senior,Yes,No
+Game,JavaScript,Game-Dev JavaScript Assessment - Junior,Game-Dev JavaScript Assessment - Mid-Level,Game-Dev JavaScript Assessment - Senior,Yes,Yes
+QA Testing,Automation Testing,QA Automation Assessment - Junior,QA Automation Assessment - Mid-Level,QA Automation Assessment - Senior,Yes,No
+QA Testing,Manual Testing,QA Manual Assessment - Junior,QA Manual Assessment - Mid-Level,QA Manual Assessment - Senior,Yes,No
+QA Testing,Selenium,QA Selenium Assessment - Junior,QA Selenium Assessment - Mid-Level,QA Selenium Assessment - Senior,Yes,No
+QA Testing,API Testing,QA API Testing Assessment - Junior,QA API Testing Assessment - Mid-Level,QA API Testing Assessment - Senior,Yes,No
+QA Testing,SQL,QA SQL Assessment - Junior,QA SQL Assessment - Mid-Level,QA SQL Assessment - Senior,Yes,No
+QA Testing,Python,QA Python Assessment - Junior,QA Python Assessment - Mid-Level,QA Python Assessment - Senior,Yes,Yes
+QA Testing,Java,QA Java Assessment - Junior,QA Java Assessment - Mid-Level,QA Java Assessment - Senior,Yes,Yes
+QA Testing,C#,QA C# Assessment - Junior,QA C# Assessment - Mid-Level,QA C# Assessment - Senior,Yes,Yes
+QA Testing,JavaScript,QA JavaScript Assessment - Junior,QA JavaScript Assessment - Mid-Level,QA JavaScript Assessment - Senior,Yes,Yes
+Blockchain,Blockchain,Blockchain Assessment - Junior,Blockchain Assessment - Mid-Level,Blockchain Assessment - Senior,Yes,No
