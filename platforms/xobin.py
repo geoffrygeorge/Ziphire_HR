@@ -18,13 +18,17 @@ def xobin_main():
             text-align: center;
             padding-top: 0.5px;
             font-size: calc(0.50em + 4.0vmin);
-            font-family: sans-serif;
+            font-family: 'Trebuchet MS', sans-serif;
             font-weight: bold;
         }
         </style>
         """, unsafe_allow_html = True)
 
-    st.markdown('<p class="big-font">XOBIN ASSESSMENT SELECTOR</p>', unsafe_allow_html = True)
+    st.markdown('<p class="big-font">XOBIN</p>', unsafe_allow_html = True)
+
+    break_loop()
+
+    st.sidebar.warning('PLEASE CHECK IF QUESTIONS ARE SHUFFLED AND ALSO THE CUT-OFF %')
 
     # data transformation
     main_dataframe = pd.read_csv('data/ziphire_assessments.csv')
@@ -57,7 +61,7 @@ def xobin_main():
             text-decoration: none;
             padding-top: 0.5px;
             font-size: calc(0.50em + 2.0vmin);
-            font-family: sans-serif;
+            font-family: 'Trebuchet MS', sans-serif;
             font-weight: bold;
         }
         </style>
@@ -75,7 +79,7 @@ def xobin_main():
             text-align: center;
             padding-top: 0.5px;
             font-size: calc(0.50em + 2.0vmin);
-            font-family: sans-serif;
+            font-family: 'Trebuchet MS', sans-serif;
             font-weight: bold;
         }
         </style>
@@ -93,7 +97,7 @@ def xobin_main():
             text-align: center;
             padding-top: 0.5px;
             font-size: calc(0.50em + 2.0vmin);
-            font-family: sans-serif;
+            font-family: 'Trebuchet MS', sans-serif;
             font-weight: bold;
         }
         </style>
