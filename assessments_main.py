@@ -29,7 +29,7 @@ st.sidebar.image(main_img, width = 150, output_format = 'PNG')
 
 st.sidebar.title("NAVIGATION")
 
-# defining various pages in the application
+# defining various pages in the ziphire application
 main_menu = ['HOME', 'XOBIN', 'HACKEREARTH']
 
 with st.container():

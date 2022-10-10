@@ -67,7 +67,7 @@ def xobin_main():
         </style>
         """, unsafe_allow_html = True)
 
-        break_loop() # <a href="https://streamlit.io/">{temp}</a>
+        break_loop() #<a href="https://streamlit.io/">{temp}</a>
 
         st.markdown('<p class="small-font">{temp}</p>'.format(temp = juniorTEST_md), unsafe_allow_html = True)
 
